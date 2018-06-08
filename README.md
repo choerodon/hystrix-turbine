@@ -16,6 +16,10 @@ Once running, open http://localhost:9020/turbine.stream
 
 For information on the turbine, refer to[https://github.com/Netflix/Turbine](https://github.com/Netflix/Turbine)
 
+## Links
+
+* [Change Log](./CHANGELOG.zh-CN.md)
+
 ## Reporting Issues
 If you find any shortcomings or bugs, please describe them in the  [issue](https://github.com/choerodon/choerodon/issues/new?template=issue_template.md).
 
