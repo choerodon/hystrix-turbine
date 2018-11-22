@@ -1,13 +1,3 @@
-spring:
-  cloud:
-    stream:
-      default-binder: kafka
-      kafka:
-        binder:
-          brokers: localhost:9002
-          zkNodes: localhost:2181
-    bus:
-      enabled: true
 eureka:
   instance:
     preferIpAddress: true
@@ -17,3 +7,5 @@ eureka:
     registryFetchIntervalSeconds: 1
     serviceUrl:
       defaultZone: http://localhost:8000/eureka/
+turbine:
+  app-config:
